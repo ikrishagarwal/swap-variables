@@ -6,7 +6,7 @@ int main() {
   printf("a and b: ");
   scanf("%d %d", &a, &b);
 
-  int bitsOfB = log2(b) + 1;
+  int bitsOfB = b == 0 ? 0 : log2(b) + 1;
 
   a = a << bitsOfB;
   b = a | b;
