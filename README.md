@@ -22,6 +22,10 @@ Look at [main.c](main.c)
 - Time complexity: `O(1)`
 - Space complexity: `O(1)`
 
+# Limitations
+
+This code doesn't work for negative numbers as of now.
+
 # Author
 
 - [Krish][github]
