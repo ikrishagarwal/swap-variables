@@ -1,5 +1,8 @@
 # Swapping variables?
 
+[![wakatime](https://wakatime.com/badge/github/ikrishagarwal/swap-variables.svg)](https://wakatime.com/badge/github/ikrishagarwal/swap-variables)
+<sup>(doesn't include thinking hours)</sup>
+
 This repository walks though on my implementation of swapping two variables without using a temporary variable or arithmetic operations or XOR.
 
 # Algorithm
@@ -24,7 +27,9 @@ Look at [main.c](main.c)
 
 # Limitations
 
-This code doesn't work for negative numbers as of now.
+~~This code doesn't work for negative numbers as of now.~~
+
+No limitations! Apart from the standard space issue same as with arithmetic operations.
 
 # Author
 
